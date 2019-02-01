@@ -1,0 +1,603 @@
+{
+	"1" : {
+		"name" : "About Modern", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-about", 
+		"categories_display" : "About, General", 
+		"id" : "about-modern-1"
+	},
+	"2" : {
+		"name" : "Team Dark", 
+		"custom_class" : "ksvctemp-all ksvctemp-team ksvctemp-about", 
+		"categories_display" : "Team, About", 
+		"id" : "team-dark-1"
+	},
+	"3" : {
+		"name" : "Services Simple 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-services", 
+		"categories_display" : "General, Services", 
+		"id" : "services-simple-1"
+	},
+	"4" : {
+		"name" : "Layered With Info", 
+		"custom_class" : "ksvctemp-all ksvctemp-text ksvctemp-about", 
+		"categories_display" : "Text, About", 
+		"id" : "layered-info-1"
+	},
+	"5" : {
+		"name" : "About Fancy Carousel 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-gallery ksvctemp-about", 
+		"categories_display" : "Gallery, About", 
+		"id" : "about-carousel-1"
+	},
+	"6" : {
+		"name" : "Banner Play Button", 
+		"custom_class" : "ksvctemp-all ksvctemp-banner ksvctemp-text", 
+		"categories_display" : "Banner, Text", 
+		"id" : "banner-play-button-1"
+	},
+	"7" : {
+		"name" : "Social Container 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-social ksvctemp-text", 
+		"categories_display" : "Social, Text", 
+		"id" : "social-container-1"
+	},
+	"8" : {
+		"name" : "Info With Counter", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters ksvctemp-text", 
+		"categories_display" : "Counter, Text", 
+		"id" : "info-counter-1"
+	},
+	"9" : {
+		"name" : "Split Play Button", 
+		"custom_class" : "ksvctemp-all ksvctemp-split ksvctemp-text", 
+		"categories_display" : "Split, Text", 
+		"id" : "split-play-button-1"
+	},
+
+	"10" : {
+		"name" : "About Info 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-about ksvctemp-text", 
+		"categories_display" : "General, About, Text", 
+		"id" : "about-info-1"
+	},
+	"11" : {
+		"name" : "Service & Team Grid", 
+		"custom_class" : "ksvctemp-all ksvctemp-grid ksvctemp-team ksvctemp-services", 
+		"categories_display" : "Team, Grid, Services", 
+		"id" : "service-team-grid-1"
+	},
+	"12" : {
+		"name" : "Split Testimonials Carousel", 
+		"custom_class" : "ksvctemp-all ksvctemp-split ksvctemp-text ksvctemp-testimonials", 
+		"categories_display" : "Testimonials, Split", 
+		"id" : "split-testimonials-carousel-1"
+	},
+	"13" : {
+		"name" : "Map Grid", 
+		"custom_class" : "ksvctemp-all ksvctemp-split ksvctemp-grid ksvctemp-map", 
+		"categories_display" : "Map, Grid", 
+		"id" : "map-grid-1"
+	},	
+	"14" : {
+		"name" : "About Info Grid", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-grid ksvctemp-text", 
+		"categories_display" : "About, Grid, Text", 
+		"id" : "info-grid-1"
+	},
+	"15" : {
+		"name" : "Clients Grid", 
+		"custom_class" : "ksvctemp-all ksvctemp-grid ksvctemp-clients", 
+		"categories_display" : "Grid, Clients", 
+		"id" : "clients-grid-1"
+	},
+	"16" : {
+		"name" : "Skill Set Counters", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters", 
+		"categories_display" : "Counters", 
+		"id" : "skillset-counters-1"
+	},
+	"17" : {
+		"name" : "About Modern Gallery", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-gallery", 
+		"categories_display" : "Split, Gallery", 
+		"id" : "about-modern-gallery-1"
+	},
+	"18" : {
+		"name" : "Services Simple 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-services", 
+		"categories_display" : "General, Services", 
+		"id" : "services-simple-2"
+	},
+	"19" : {
+		"name" : "Clients Dark", 
+		"custom_class" : "ksvctemp-all ksvctemp-clients", 
+		"categories_display" : "Clients", 
+		"id" : "clients-dark-1"
+	},
+	"20" : {
+		"name" : "Team Presentation", 
+		"custom_class" : "ksvctemp-all ksvctemp-team ksvctemp-text", 
+		"categories_display" : "Team, Text", 
+		"id" : "team-presentation-1"
+	},
+	"21" : {
+		"name" : "Clients Presentation Grid", 
+		"custom_class" : "ksvctemp-all ksvctemp-clients ksvctemp-grid ksvctemp-text", 
+		"categories_display" : "Clients, Grid, Text", 
+		"id" : "clients-grid-2"
+	},
+	"22" : {
+		"name" : "Services simple Dark", 
+		"custom_class" : "ksvctemp-all ksvctemp-services ksvctemp-text ksvctemp-general", 
+		"categories_display" : "Services, Text, General", 
+		"id" : "services-simple-3"
+	},
+	"23" : {
+		"name" : "About Reveal 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-text", 
+		"categories_display" : "General, Text", 
+		"id" : "about-reveal-1"
+	},
+	"24" : {
+		"name" : "Pricing Clean 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-clean-1"
+	},
+	"25" : {
+		"name" : "About With Image", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text ksvctemp-general", 
+		"categories_display" : "About, Text, General", 
+		"id" : "about-image-1"
+	},
+	"26" : {
+		"name" : "Call To Action 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-text ksvctemp-call-to-action", 
+		"categories_display" : "General, Text", 
+		"id" : "call-action-1"
+	},
+	"27" : {
+		"name" : "Testimonials + Video", 
+		"custom_class" : "ksvctemp-all ksvctemp-testimonials ksvctemp-text", 
+		"categories_display" : "Testimonials, Text", 
+		"id" : "testimonials-video-1"
+	},
+	"28" : {
+		"name" : "Services Carousel", 
+		"custom_class" : "ksvctemp-all ksvctemp-services ksvctemp-general", 
+		"categories_display" : "Services, General", 
+		"id" : "services-carousel-1"
+	},
+	"29" : {
+		"name" : "About Clean 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-general ksvctemp-text", 
+		"categories_display" : "About, Text, General", 
+		"id" : "about-clean-1"
+	},
+	"30" : {
+		"name" : "Testimonials Hover", 
+		"custom_class" : "ksvctemp-all ksvctemp-testimonials", 
+		"categories_display" : "Testimonials", 
+		"id" : "testimonials-hover-1"
+	},
+	"31" : {
+		"name" : "Call To Action 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-text ksvctemp-call-to-action", 
+		"categories_display" : "General, Text", 
+		"id" : "call-action-2"
+	},
+	"32" : {
+		"name" : "Work Card Slider", 
+		"custom_class" : "ksvctemp-all ksvctemp-gallery", 
+		"categories_display" : "Gallery", 
+		"id" : "work-card-1"
+	},
+	"33" : {
+		"name" : "Team fancy Box 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-team", 
+		"categories_display" : "Team", 
+		"id" : "about-team-fancy-1"
+	},
+	"34" : {
+		"name" : "Process Clean 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text", 
+		"categories_display" : "About, text", 
+		"id" : "process-clean-1"
+	},	
+	"35" : {
+		"name" : "Social Container 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-social ksvctemp-text", 
+		"categories_display" : "Social, Text", 
+		"id" : "social-container-2"
+	},
+	"36" : {
+		"name" : "Team fancy Box 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-team", 
+		"categories_display" : "Team", 
+		"id" : "about-team-fancy-2"
+	},
+	"37" : {
+		"name" : "Counters Simple 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters", 
+		"categories_display" : "Counters", 
+		"id" : "counter-simple-1"
+	},
+	"38" : {
+		"name" : "Pricing Clean 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-clean-2"
+	},
+	"39" : {
+		"name" : "Process Colorful", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text", 
+		"categories_display" : "About, text", 
+		"id" : "process-colorful-1"
+	},	
+	"40" : {
+		"name" : "About Info List", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text ksvctemp-general", 
+		"categories_display" : "About, Text, General", 
+		"id" : "about-info-list-1"
+	},
+	"41" : {
+		"name" : "About + Service Split", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-split ksvctemp-text ksvctemp-general", 
+		"categories_display" : "About, Split, General", 
+		"id" : "about-service-split-1"
+	},
+	"42" : {
+		"name" : "Team Card", 
+		"custom_class" : "ksvctemp-all ksvctemp-team", 
+		"categories_display" : "Team", 
+		"id" : "team-card-1"
+	},
+	"43" : {
+		"name" : "About Clean 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-general ksvctemp-text", 
+		"categories_display" : "About, Text, General", 
+		"id" : "about-clean-2"
+	},
+	"44" : {
+		"name" : "Split Play Button", 
+		"custom_class" : "ksvctemp-all ksvctemp-testimonials", 
+		"categories_display" : "Testimonials", 
+		"id" : "testimonials-decorated-row-1"
+	},
+	"45" : {
+		"name" : "Services Simple 4", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-services", 
+		"categories_display" : "General, Services", 
+		"id" : "services-simple-4"
+	},
+	"46" : {
+		"name" : "About Corporate Mode", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text ksvctemp-general", 
+		"categories_display" : "About, General, text", 
+		"id" : "about-corporate-mode-1"
+	},
+	"47" : {
+		"name" : "About Info Icons", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-general ksvctemp-text", 
+		"categories_display" : "About, General, text", 
+		"id" : "about-info-icons-1"
+	},
+	"48" : {
+		"name" : "Facts Colorful", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-general ksvctemp-text", 
+		"categories_display" : "About, General", 
+		"id" : "facts-colorful-1"
+	},
+	"49" : {
+		"name" : "Services Side by Side", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-services", 
+		"categories_display" : "General, Services", 
+		"id" : "services-sidebyside-1"
+	},
+	"50" : {
+		"name" : "About Banner Video", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-banner ksvctemp-text", 
+		"categories_display" : "About, Test, Banner", 
+		"id" : "banner-about-video-1"
+	},
+	"51" : {
+		"name" : "About Info Icons 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-general ksvctemp-text", 
+		"categories_display" : "About, General, text", 
+		"id" : "about-info-icons-2"
+	},
+	"52" : {
+		"name" : "About Blog Style", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text ksvctemp-general", 
+		"categories_display" : "About, Text, General", 
+		"id" : "about-blog-style-1"
+	},
+	"53" : {
+		"name" : "Call To Action 3", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-text ksvctemp-call-to-action", 
+		"categories_display" : "General, Text", 
+		"id" : "call-action-3"
+	},
+	"54" : {
+		"name" : "About + Services Minimal", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-services ksvctemp-text", 
+		"categories_display" : "About, Services", 
+		"id" : "about-services-minimal-1"
+	},
+	"55" : {
+		"name" : "Counters + Services", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters ksvctemp-services", 
+		"categories_display" : "Counters, Services", 
+		"id" : "counter-services-1"
+	},
+	"56" : {
+		"name" : "Pricing Colorful 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-colorful-1"
+	},
+	"57" : {
+		"name" : "Call To Action 4", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-text ksvctemp-call-to-action", 
+		"categories_display" : "General, Text", 
+		"id" : "call-action-4"
+	},
+	"58" : {
+		"name" : "Grid Info Box", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-grid", 
+		"categories_display" : "About, Grid", 
+		"id" : "grid-info-box-1"
+	},
+	"59" : {
+		"name" : "Testimonials Full With", 
+		"custom_class" : "ksvctemp-all ksvctemp-text ksvctemp-testimonials", 
+		"categories_display" : "Testimonials", 
+		"id" : "testimonials-fullwidth-1"
+	},
+	"60" : {
+		"name" : "About Decorated Row", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text ksvctemp-general ksvctemp-call-to-action", 
+		"categories_display" : "About, General", 
+		"id" : "about-decorated-row-1"
+	},
+	"61" : {
+		"name" : "Pricing Decorated Row", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-decorated-1"
+	},
+	"62" : {
+		"name" : "Social Container 3", 
+		"custom_class" : "ksvctemp-all ksvctemp-social ksvctemp-text", 
+		"categories_display" : "Social, Text", 
+		"id" : "social-container-3"
+	},
+	"63" : {
+		"name" : "Services Simple 5", 
+		"custom_class" : "ksvctemp-all ksvctemp-general ksvctemp-services", 
+		"categories_display" : "General, Services", 
+		"id" : "services-simple-5"
+	},
+	"64" : {
+		"name" : "Clients & Partners", 
+		"custom_class" : "ksvctemp-all ksvctemp-clients ksvctemp-grid ksvctemp-text", 
+		"categories_display" : "Clients, Grid, Text", 
+		"id" : "clients-grid-3"
+	},
+	"65" : {
+		"name" : "Testimonials Card Carousel", 
+		"custom_class" : "ksvctemp-all ksvctemp-testimonials", 
+		"categories_display" : "Testimonials, Carousel", 
+		"id" : "testimonials-creative-1"
+	},
+	"66" : {
+		"name" : "About + Services Creative", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-services ksvctemp-text", 
+		"categories_display" : "About, Services", 
+		"id" : "about-services-creative-1"
+	},
+	"67" : {
+		"name" : "Carousel Info Box", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-services ksvctemp-text", 
+		"categories_display" : "About, Services, Carousel", 
+		"id" : "carousel-infobox-1"
+	},
+	"68" : {
+		"name" : "About Modern 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-services ksvctemp-text", 
+		"categories_display" : "About, Services, Text", 
+		"id" : "about-modern-2"
+	},
+	"69" : {
+		"name" : "Pricing Blue Ocean", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-blue-1"
+	},
+	"70" : {
+		"name" : "Process Colorful 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text", 
+		"categories_display" : "About, Services, text", 
+		"id" : "process-colorful-2"
+	},	
+	"71" : {
+		"name" : "Services Sky Blue", 
+		"custom_class" : "ksvctemp-all ksvctemp-services ksvctemp-about ksvctemp-general", 
+		"categories_display" : "General, Services, Action", 
+		"id" : "services-skyblue-1"
+	},
+	"72" : {
+		"name" : "Milestone Counters", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters", 
+		"categories_display" : "Counters", 
+		"id" : "milestone-counters-1"
+	},
+	"73" : {
+		"name" : "Layered With Info 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-text ksvctemp-about", 
+		"categories_display" : "Text, About", 
+		"id" : "layered-info-2"
+	},
+	"74" : {
+		"name" : "About Info Icons 3", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-general ksvctemp-text", 
+		"categories_display" : "About, General, text", 
+		"id" : "about-info-icons-3"
+	},
+	"75" : {
+		"name" : "About Info List 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-about ksvctemp-text ksvctemp-general", 
+		"categories_display" : "About, Text, General", 
+		"id" : "about-info-list-2"
+	},
+	"76" : {
+		"name" : "Simple Counters", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters", 
+		"categories_display" : "Counters", 
+		"id" : "simple-counters-1"
+	},
+	"77" : {
+		"name" : "Services Fancy Box", 
+		"custom_class" : "ksvctemp-all ksvctemp-services ksvctemp-about", 
+		"categories_display" : "Services, About", 
+		"id" : "services-fancy-box-1"
+	},
+	"78" : {
+		"name" : "Pricing Clean 3", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-clean-3"
+	},
+	"79" : {
+		"name" : "Get in Touch 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-social ksvctemp-contact", 
+		"categories_display" : "Social, Contact", 
+		"id" : "get-in-touch-1"
+	},
+	"80" : {
+		"name" : "Counters Icons", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters", 
+		"categories_display" : "Counters", 
+		"id" : "counters-icons-1"
+	},
+	"81" : {
+		"name" : "Pricing Clean 4", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-box-clean-4"
+	},
+	"82" : {
+		"name" : "Get in Touch 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-social ksvctemp-contact", 
+		"categories_display" : "Social, Contact", 
+		"id" : "get-in-touch-2"
+	},
+	"83" : {
+		"name" : "Pricing List 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-pricing ksvctemp-text", 
+		"categories_display" : "Pricing, Text", 
+		"id" : "price-list-1"
+	},
+	"84" : {
+		"name" : "Counters Business", 
+		"custom_class" : "ksvctemp-all ksvctemp-counters", 
+		"categories_display" : "Counters", 
+		"id" : "counters-business-1"
+	},
+	"85" : {
+		"name" : "Banner Minimal 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-banner", 
+		"categories_display" : "Banner", 
+		"id" : "banner-minimal-1"
+	},
+	"86" : {
+		"name" : "Hero Section 1", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-1"
+	},	
+	"87" : {
+		"name" : "Hero Section 2", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-2"
+	},	
+	"88" : {
+		"name" : "Hero Section 3", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-3"
+	},	
+	"89" : {
+		"name" : "Hero Section 4", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-4"
+	},	
+	"90" : {
+		"name" : "Hero Section 5", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-5"
+	},	
+	"91" : {
+		"name" : "Hero Section 6", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-6"
+	},
+	"92" : {
+		"name" : "Hero Section 7", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-7"
+	},	
+	"93" : {
+		"name" : "Hero Section 8", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-8"
+	},
+	"94" : {
+		"name" : "Hero Section 9", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-9"
+	},	
+	"95" : {
+		"name" : "Hero Section 10", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-10"
+	},	
+	"96" : {
+		"name" : "Hero Section 11", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-11"
+	},	
+	"97" : {
+		"name" : "Hero Section 12", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-12"
+	},
+	"98" : {
+		"name" : "Hero Section 13", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-13"
+	},	
+	"99" : {
+		"name" : "Hero Section 14", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-14"
+	},	
+	"100" : {
+		"name" : "Hero Section 15", 
+		"custom_class" : "ksvctemp-all ksvctemp-hero-images", 
+		"categories_display" : "Hero Section", 
+		"id" : "hero-section-15"
+	}	
+}

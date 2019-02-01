@@ -1,0 +1,961 @@
+{
+	"homesFilter" : ["all","agency","landing","creative","corporate","clean","business","portfolio","blog","shop","minimal","niche","one-page"],
+	"innerPagesFilter" : ["all","about","contact","services","coming-soon","team","maintenance"],
+	"postsFilter" : ["all","image","slider","video","audio","quote"],
+	"portfoliosFilter" : ["all","modern","classic","slider","grid"],
+	"productsFilter" : ["all","split","modern","classic"],
+	"homesURL" : "https://raw.githubusercontent.com/SayenThemes/kameleon_content/master/kameleon_content/kameleon-demos/homes/",
+	"innerPagesURL" : "https://raw.githubusercontent.com/SayenThemes/kameleon_content/master/kameleon_content/kameleon-demos/inner-pages/",
+	"postsURL" : "https://raw.githubusercontent.com/SayenThemes/kameleon_content/master/kameleon_content/kameleon-demos/posts/",
+	"portfoliosURL" : "https://raw.githubusercontent.com/SayenThemes/kameleon_content/master/kameleon_content/kameleon-demos/portfolios/",
+	"productsURL" : "https://raw.githubusercontent.com/SayenThemes/kameleon_content/master/kameleon_content/kameleon-demos/products/",
+	"demosNumbers" : {
+		"homes" : 84,
+		"innerPages" : 29,
+		"posts" : 14,
+		"portfolios" : 11,
+		"products" : 6
+	},
+	"homesDemos" : [
+		{
+			"type"					: "group",
+			"amount"				: 5,			
+			"id" 					: "agency-home",
+			"name" 					: "Agency Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/agency-homes/",
+			"keywords"				: ["all","agency","landing","creative","clean"],
+			"sliderZip" 			: "https://kml.sayenwp.com/agency-homes/",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 10,			
+			"id" 					: "clean-home",
+			"name" 					: "Clean Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/clean-homes/",
+			"keywords"				: ["all","agency","landing","creative","clean","minimal"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 10,			
+			"id" 					: "creative-home",
+			"name" 					: "Creative Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/creative-homes/",
+			"keywords"				: ["all","agency","landing","creative"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 10,			
+			"id" 					: "landing-home",
+			"name" 					: "Landing Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/landing-homes/",
+			"keywords"				: ["all","agency","landing","creative"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 5,			
+			"id" 					: "business-home",
+			"name" 					: "Business Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/business-homes/",
+			"keywords"				: ["all","agency","business","creative","corporate"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 5,			
+			"id" 					: "corporate-home",
+			"name" 					: "Corporate Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/corporate-homes/",
+			"keywords"				: ["all","agency","business","creative","corporate"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 5,			
+			"id" 					: "app-landing",
+			"name" 					: "App Landing",
+			"previewUrl" 			: "https://kml.sayenwp.com/app-landing/",
+			"keywords"				: ["all","agency","landing","creative","clean","minimal"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 3,			
+			"id" 					: "hosting-landing",
+			"name" 					: "Hosting Landing",
+			"previewUrl" 			: "https://kml.sayenwp.com/hosting-landing/",
+			"keywords"				: ["all","landing","business","creative","corporate"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 3,			
+			"id" 					: "shop-home",
+			"name" 					: "Shop Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/shop/",
+			"keywords"				: ["all","landing","creative","business","shop"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 5,			
+			"id" 					: "vcard-home",
+			"name" 					: "Vcard Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/vcard-homes/",
+			"keywords"				: ["all","landing","minimal","one-page","clean","portfolio"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "barber-shop",
+			"name" 					: "Barber Shop",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","shop","creative","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "beauty-salon",
+			"name" 					: "Beauty Salon",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "construction",
+			"name" 					: "Construction",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","corporate","landing","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "cv-designer",
+			"name" 					: "CV Designer",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","one-page"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "cv-developer-modern",
+			"name" 					: "CV Developer Modern",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","one-page"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "e-learning-platform",
+			"name" 					: "E-Learning Platform",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "education-university",
+			"name" 					: "Education University",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "environment",
+			"name" 					: "Environment",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "interior-design",
+			"name" 					: "Interior Design",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "law-firm",
+			"name" 					: "Law Firm",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","corporate"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "mechanic-home",
+			"name" 					: "Mechanic Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","business","niche","corporate"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "medic-home",
+			"name" 					: "Medic Home",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "non-profit-charity",
+			"name" 					: "Non Profit Charity",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "photographer",
+			"name" 					: "Photographer",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","portfolio"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "photography-album",
+			"name" 					: "Photography Album",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","portfolio"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "restaurant",
+			"name" 					: "Restaurant",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "kameleon-gym",
+			"name" 					: "Kameleon Gym",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","landing","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "transport-logistic",
+			"name" 					: "Transport & Logistic",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","corporate","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "travel-agency",
+			"name" 					: "Travel Agency",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","corporate","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "travel-agency-pilling",
+			"name" 					: "Travel Agency Pilling",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","corporate","niche","business","one-page"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "vr-showcase",
+			"name" 					: "VR Showcase",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "wedding-photography",
+			"name" 					: "Wedding Photography",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","creative","landing","niche","portfolio"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "yoga-studio",
+			"name" 					: "Yoga Studio",
+			"previewUrl" 			: "https://kml.sayenwp.com/niche-homes/",
+			"keywords"				: ["all","landing","niche","business"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all","content","images"]
+		}
+	],
+	"innerPagesDemos" : [
+		{
+			"type"					: "single",
+			"id" 					: "about-classic",
+			"name" 					: "About Classic",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","about"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "about-creative",
+			"name" 					: "About Creative",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","about"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "about-grid",
+			"name" 					: "About Grid",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","about"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "about-minimal",
+			"name" 					: "About Minimal",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","about"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "about-modern",
+			"name" 					: "About Modern",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","about"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "about-split",
+			"name" 					: "About Split",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","about"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "contact-classic",
+			"name" 					: "Contact Classic",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","contact"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "contact-dark",
+			"name" 					: "Contact Dark",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","contact"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "contact-grid",
+			"name" 					: "Contact Grid",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","contact"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "contact-minimal",
+			"name" 					: "Contact Minimal",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","contact"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "contact-normal",
+			"name" 					: "Contact Normal",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","contact"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "contact-split",
+			"name" 					: "Contact Split",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","contact"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "services-basic",
+			"name" 					: "Services Basic",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","services"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "services-classic",
+			"name" 					: "Services Classic",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","services"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "services-grid",
+			"name" 					: "Services Grid",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","services"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "services-minimal",
+			"name" 					: "Services Minimal",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","services"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "services-modern",
+			"name" 					: "Services Modern",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","services"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "services-pilling",
+			"name" 					: "Services Pilling",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","services"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "team-classic",
+			"name" 					: "Team Classic",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","team"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "team-dark",
+			"name" 					: "Team Dark",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","team"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "team-grid",
+			"name" 					: "Team Grid",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","team"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "team-modern",
+			"name" 					: "Team Modern",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","team"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "team-split",
+			"name" 					: "Team Split",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","team"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 4,			
+			"id" 					: "coming-soon",
+			"name" 					: "Coming Soon",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","minimal","one-page","clean"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "group",
+			"amount"				: 2,			
+			"id" 					: "maintenance-mode",
+			"name" 					: "Maintenance Mode",
+			"previewUrl" 			: "https://kml.sayenwp.com/inner-pages/",
+			"keywords"				: ["all","minimal","one-page","clean"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
+			"contentChooser"		: ["all"]
+		}
+	],
+	"postsDemos" : [
+		{
+			"type"					: "single",
+			"id" 					: "all-posts",
+			"name" 					: "Full Blog",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/blog/blog-grid-full-width/",
+			"keywords"				: ["all"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "powder-color-explosion",
+			"name" 					: "Powder Color Explosion",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/02/",
+			"keywords"				: ["all","image"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "crafted-for-creative",
+			"name" 					: "Crafted For Creative",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/02/",
+			"keywords"				: ["all","image"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "love-for-mountains",
+			"name" 					: "Love For Mountains",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image","slider"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "once-in-a-wifetime",
+			"name" 					: "Once in a Lifetime",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","quote"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "into-the-wild",
+			"name" 					: "Into The Wild",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "young-fun-skating",
+			"name" 					: "Young Fun Skating",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","video"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "the-life-paradise",
+			"name" 					: "The Life Paradise",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image","slider"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "younger-than-ever",
+			"name" 					: "Younger Than Ever",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "all-about-sneakers",
+			"name" 					: "All About Sneakers",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "walk-in-the-nature",
+			"name" 					: "Walk in The Nature",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","video"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "creative-wild-colors",
+			"name" 					: "Creative Wild Colors",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image","slider"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "trap-beats",
+			"name" 					: "Trap Beats",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","audio"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "wild-and-free",
+			"name" 					: "Wild And Free",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","quote"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "photographer-passion",
+			"name" 					: "Photographer Passion",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/2018/10/01/",
+			"keywords"				: ["all","image"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		}
+	],
+	"portfoliosDemos" : [
+		{
+			"type"					: "single",
+			"id" 					: "all-portfolios",
+			"name" 					: "Full Portfolios",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolios/portfolio-neptune-metro/",
+			"keywords"				: ["all"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "museum-art",
+			"name" 					: "Museum Art",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","classic","grid"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "messenger-app",
+			"name" 					: "Messenger App",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "web-design",
+			"name" 					: "Web Design",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "shirt-conception",
+			"name" 					: "Shirt Conception",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","classic","grid"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "fashion-magazine",
+			"name" 					: "Fashion Magazine",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","classic","slider"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "event-card",
+			"name" 					: "Event Card",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "frame-mockup",
+			"name" 					: "Frame Mockup",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","classic","grid"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "girl-poster",
+			"name" 					: "Girl Poster",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","classic","slider"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "gamer-controller",
+			"name" 					: "Gamer Controller",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "tracking-watch",
+			"name" 					: "Tracking Watch",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "hero-sneaker",
+			"name" 					: "Hero Sneaker",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/portfolio/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		}
+	],
+	"productsDemos" : [
+		{
+			"type"					: "single",
+			"id" 					: "all-products",
+			"name" 					: "Full Shop",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/shop/",
+			"keywords"				: ["all"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","sayen_elements"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "flannel-dress",
+			"name" 					: "flannel Dress",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/product/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","woocommerce"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "hot-cotton",
+			"name" 					: "Hot Cotton",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/product/",
+			"keywords"				: ["all","modern"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","woocommerce"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "black-hoodie",
+			"name" 					: "Black Hoodie",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/product/",
+			"keywords"				: ["all","split"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","woocommerce"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "coton-sweater",
+			"name" 					: "Coton Sweater",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/product/",
+			"keywords"				: ["all","split"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","woocommerce"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "summer-dress",
+			"name" 					: "Summer Dress",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/product/",
+			"keywords"				: ["all","classic"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","woocommerce"],
+			"contentChooser"		: ["all"]
+		},
+		{
+			"type"					: "single",
+			"id" 					: "stylish-winter",
+			"name" 					: "Stylish Winter",
+			"previewUrl" 			: "https://kml.sayenwp.com/ptypes/product/",
+			"keywords"				: ["all","classic"],
+			"sliderZip" 			: "",
+			"neededPlugins"			: ["wpbackery","woocommerce"],
+			"contentChooser"		: ["all"]
+		}
+	]   
+}
