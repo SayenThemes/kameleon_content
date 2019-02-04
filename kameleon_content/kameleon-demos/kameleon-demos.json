@@ -367,7 +367,7 @@
 			"keywords"				: ["all","about"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -377,7 +377,7 @@
 			"keywords"				: ["all","about"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -387,7 +387,7 @@
 			"keywords"				: ["all","about"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -397,7 +397,7 @@
 			"keywords"				: ["all","about"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -407,7 +407,7 @@
 			"keywords"				: ["all","about"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -417,7 +417,7 @@
 			"keywords"				: ["all","about"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -427,7 +427,7 @@
 			"keywords"				: ["all","contact"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -437,7 +437,7 @@
 			"keywords"				: ["all","contact"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -447,7 +447,7 @@
 			"keywords"				: ["all","contact"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -457,7 +457,7 @@
 			"keywords"				: ["all","contact"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -467,7 +467,7 @@
 			"keywords"				: ["all","contact"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -477,7 +477,7 @@
 			"keywords"				: ["all","contact"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -487,7 +487,7 @@
 			"keywords"				: ["all","services"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -497,7 +497,7 @@
 			"keywords"				: ["all","services"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -507,7 +507,7 @@
 			"keywords"				: ["all","services"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -517,7 +517,7 @@
 			"keywords"				: ["all","services"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -527,7 +527,7 @@
 			"keywords"				: ["all","services"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -537,7 +537,7 @@
 			"keywords"				: ["all","services"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -547,7 +547,7 @@
 			"keywords"				: ["all","team"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -557,7 +557,7 @@
 			"keywords"				: ["all","team"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -567,7 +567,7 @@
 			"keywords"				: ["all","team"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -577,7 +577,7 @@
 			"keywords"				: ["all","team"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -587,7 +587,7 @@
 			"keywords"				: ["all","team"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "group",
@@ -598,7 +598,7 @@
 			"keywords"				: ["all","minimal","one-page","clean"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "group",
@@ -609,7 +609,7 @@
 			"keywords"				: ["all","minimal","one-page","clean"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements","contactform"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		}
 	],
 	"postsDemos" : [
@@ -621,7 +621,7 @@
 			"keywords"				: ["all"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -631,7 +631,7 @@
 			"keywords"				: ["all","image"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -641,7 +641,7 @@
 			"keywords"				: ["all","image"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -651,7 +651,7 @@
 			"keywords"				: ["all","image","slider"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -661,7 +661,7 @@
 			"keywords"				: ["all","quote"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -671,7 +671,7 @@
 			"keywords"				: ["all","image"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -681,7 +681,7 @@
 			"keywords"				: ["all","video"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -691,7 +691,7 @@
 			"keywords"				: ["all","image","slider"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -701,7 +701,7 @@
 			"keywords"				: ["all","image"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -711,7 +711,7 @@
 			"keywords"				: ["all","image"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -721,7 +721,7 @@
 			"keywords"				: ["all","video"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -731,7 +731,7 @@
 			"keywords"				: ["all","image","slider"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -741,7 +741,7 @@
 			"keywords"				: ["all","audio"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -751,7 +751,7 @@
 			"keywords"				: ["all","quote"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -761,7 +761,7 @@
 			"keywords"				: ["all","image"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		}
 	],
 	"portfoliosDemos" : [
@@ -773,7 +773,7 @@
 			"keywords"				: ["all"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -783,7 +783,7 @@
 			"keywords"				: ["all","classic","grid"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -793,7 +793,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -803,7 +803,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -813,7 +813,7 @@
 			"keywords"				: ["all","classic","grid"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -823,7 +823,7 @@
 			"keywords"				: ["all","classic","slider"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -833,7 +833,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -843,7 +843,7 @@
 			"keywords"				: ["all","classic","grid"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -853,7 +853,7 @@
 			"keywords"				: ["all","classic","slider"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -863,7 +863,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -873,7 +873,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -883,7 +883,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		}
 	],
 	"productsDemos" : [
@@ -895,7 +895,7 @@
 			"keywords"				: ["all"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","sayen_elements"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -905,7 +905,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","woocommerce"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -915,7 +915,7 @@
 			"keywords"				: ["all","modern"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","woocommerce"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -925,7 +925,7 @@
 			"keywords"				: ["all","split"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","woocommerce"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -935,7 +935,7 @@
 			"keywords"				: ["all","split"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","woocommerce"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -945,7 +945,7 @@
 			"keywords"				: ["all","classic"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","woocommerce"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		},
 		{
 			"type"					: "single",
@@ -955,7 +955,7 @@
 			"keywords"				: ["all","classic"],
 			"sliderZip" 			: "",
 			"neededPlugins"			: ["wpbackery","woocommerce"],
-			"contentChooser"		: ["all"]
+			"contentChooser"		: ["all","content","images"]
 		}
 	]   
 }
